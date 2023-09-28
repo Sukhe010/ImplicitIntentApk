@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentApk</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="todo">TODO</string>
+</resources>
